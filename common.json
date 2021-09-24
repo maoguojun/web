@@ -1,4 +1,5 @@
-[
+{
+	"list":[
 	{"name":"纯净1","url":"https://z1.m1907.cn/?jx=","t":"m"},
 	{"name":"B站1","url":"https://vip.parwix.com:4433/player/?url=","t":"m"},
 	{"name":"爱跟","url":"https://vip.2ktvb.com/player/?url=","t":"m"},
@@ -63,3 +64,4 @@
 	{"name":"200","url":"https://vip.66parse.club/?url="},
 	{"name":"8090","url":"https://www.8090g.cn/?url="}
 ]
+}
