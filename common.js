@@ -9,10 +9,11 @@ const analysis = '';
 // 解析列表
 const urlList = [
 	{name:"纯净1",src:"https://z1.m1907.cn/?jx=","t":"m"},
+	{name:"BL1",src:"https://vip.bljiex.cc/?v="},
+	{name:"BL2",src:"https://vip.bljiex.com/?v="},
 	{name:"B站1",src:"https://vip.parwix.com:4433/player/?url=","t":"m"},
 	{name:"爱跟",src:"https://vip.2ktvb.com/player/?url=","t":"m"},
 	{name:"爱豆",src:"https://jx.aidouer.net/?url="},
-	{name:"BL",src:"https://vip.bljiex.com/?v="},
 	{name:"CK",src:"https://www.ckplayer.vip/jiexi/?url="},
 	{name:"CHok",src:"https://www.gai4.com/?url="},
 	{name:"冰豆",src:"https://api.qianqi.net/vip/?url="},
